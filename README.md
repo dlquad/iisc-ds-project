@@ -60,9 +60,10 @@ We followed a systematic approach to build and refine our fake news detection sy
 
 ## Resources
 - [Project Repository](https://github.com/dlquad/iisc-ds-project)
-- [Presentation Slides](docs/DS-Presentation.pptx)
+- [Presentation Slides](docs/Real Time Fake News Prediction_CourseProject_Canvas.pptx)
 - [Final Report](docs/DS-Report.docx)
 - [Data Science Canvas](docs/DS-Canvas.pptx)
 ---
+
 
 *Last Updated: December 1, 2025*
